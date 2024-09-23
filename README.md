@@ -21,8 +21,8 @@ GridSearchCV was utilized to fine-tune hyperparameters in regression and classif
 K-fold cross-validation ensured robust model evaluation and mitigated overfitting. Implemented during hyperparameter tuning, it provided a reliable estimate of model performance, fostering generalization to unseen data and contributing to trustworthy results.
 
 ## ***Results***
-***Task 1:*** Random Forest Regression performed the best with a 41.7% accuracy in predicting G3.Math.
-***Task 2:*** Decision Tree Classifier achieved the highest accuracy of 70% in classifying G3.Math categories. AUC scores indicated good model performance.
+  ***Task 1:*** Random Forest Regression performed the best with a 41.7% accuracy in predicting G3.Math.
+  ***Task 2:*** Decision Tree Classifier achieved the highest accuracy of 70% in classifying G3.Math categories. AUC scores indicated good model performance.
 
 ## ***Conclusion***
 Despite a relatively small dataset and potential imbalance, the project successfully explored and modeled student achievement in secondary education. Noteworthy findings include the importance of specific variables in predictive modeling and the efficacy of Decision Tree Classifier for multiclass classification. Challenges were observed in feature significance, possibly attributed to limited data points. Overall, the project provides valuable insights into factors impacting student success and serves as a foundation for future data analysis projects.
